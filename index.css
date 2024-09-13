@@ -1,0 +1,358 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Lexend+Exa:wght@100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.top {
+  display: inline-flex; 
+  justify-content: space-between; 
+  width: 100%;
+  align-items: center;
+}
+ul {
+    display:inline-flex;
+    list-style: none;
+    padding: 5px;
+    margin: 0;
+    align-items: center;
+}
+
+li {
+    margin: 0;
+    padding: 10px;
+}
+
+.primarybutton {
+    color: white;
+    background-color: black;
+    padding: 15px 50px;
+    border-radius: 10px;
+    margin: 0;
+}
+header {
+ margin: auto;
+ width: 80%;
+}
+
+.first {
+    margin: 0;
+}
+.purple {
+    background-image: url(images/WhatsApp\ Image\ 2024-08-25\ at\ 15.18.21_101903eb\ \(Custom\).jpg);
+    background-repeat: no repeat;
+    background-size: cover;
+    margin: 0;
+    height: 75%;
+}
+
+#secbtn {
+    color: black;
+    background-color: #ffcf33;
+    padding: 16px 32px;
+    width: 18rem;
+    border-radius: 10px;
+}
+
+.content1 {
+    float: left;
+}
+
+.content1 h1 {
+    color: #ffcf33;
+    font-size: 57px ;
+    font-family: "Work Sans", sans-serif;
+    font-weight: bold;
+}
+
+.content1 h2 {
+    color: white;
+    font-size: 57px ;
+    font-family: "Work Sans", sans-serif;
+    font-weight: bold;
+}
+
+.content1 h3 {
+    color: white;
+    font-size: 25px ;
+    font-family: "Work Sans", sans-serif;
+    font-weight: bold;
+}
+
+.body1 {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    padding: 5rem;
+    
+}
+
+.corousel-target{
+    float: right;
+}
+
+.yellow {
+    background-image: url(images/Screenshot\ \(70\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 75%;
+}
+
+
+
+.fyellow .content2 {
+    float: right;
+    width: 694px
+    
+}
+
+.content2 h1{
+    color: black;
+    font-size: 3.6rem ;
+    font-family: "Work Sans", sans-serif;
+    font-weight: bold;
+}
+
+.content2 p{
+    color: black;
+    font-size: 1.2rem ;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+.content1 p{
+    color: rgb(255, 255, 255);
+    font-size: 1.2rem ;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+.green {
+    background-color: #8ac3b2;
+    margin: 0%;
+    height: 75%;
+}
+
+.fgreen .content2 {
+    float: right;
+    width: 694px
+    
+}
+.spurple h1{
+    color: white;
+}
+
+.spurple {
+    width: 694px;
+}
+
+#spurple img{
+    float: right;
+}
+
+#secbtn{
+    background-color: #ffcf33;
+    color: black;
+    padding: 16px 32px;
+    font-size: 16px;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 500;
+} 
+
+.syellow{
+    width: 694px;
+}
+
+.syellow h1{
+    color: black;
+}
+
+.syellow p{
+    color: black;
+}
+.fbox{
+    display: flex;
+    margin-top: 100px;
+}
+
+.fbox1 {
+    background-image: url(images/academy-bg.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2.5rem;
+    border-radius: 0.75rem;
+}
+
+.fbox2 {
+    background-image: url(images/blog-bg.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2.5rem;
+    border-radius: 0.75rem;
+    position: absolute;
+    right: 10%;
+}
+
+.jac h2{
+    font-family: jost;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #492b7c;
+}
+
+.jac p{
+    font-family: "jost";
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+    color: black;
+}
+
+.jac h3{
+    font-family: jost;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #4fa58c;
+}
+
+.fbox1 img{
+    float: right;
+}
+
+.fbox2 img{
+    float: right;
+}
+body{
+    font-family: "jost",;
+}
+
+.newsletter {
+    background-color: #fff5d6;
+    margin-top: 150px;
+    padding: 2rem;
+    border-radius: 1.5rem;
+}
+
+.newsbox{
+    width: 694px;
+
+}
+
+.newsbox h2{
+    color: #492b7c;
+    font-size: 1.2rem;
+    font-weight: 700;
+    font-family: "Work Sans", sans-serif
+}
+.newsbox h3{
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: "Work Sans", sans-serif
+}
+.newsbox p{
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 700;
+    font-family: "Work Sans", sans-serif;
+}
+
+.subscribe {
+    background-color: white;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(40, 39, 39, 0.15);
+    width: 100%;
+    padding: .3rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sub {
+    background-color: white;
+    border-radius: 8px;
+    padding: 1rem 1.3rem;
+    border: none;
+}
+
+.newsletter {
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 96%;
+    padding-bottom: 100px;
+}
+
+.footer {
+    background-color: #492b7c;
+}
+
+.toplayer{
+    display: inline-flex;
+    justify-content: space-between;
+   width: 100%;
+   flex-wrap: wrap;
+   padding-bottom: 2.5rem;
+       
+}
+
+.box1 ul{
+    display: block;
+    color: white;
+    margin: 0;
+    justify-content: flex-start;
+}
+
+.box1 h2{
+    color: #ffcf33;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 2;
+    font-family: "Jost", sans-serif;
+}
+
+.side1 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 0 0 20%;
+    float: left;
+    color: white;
+}
+
+.side2 {
+    font-size: 18px;
+    color: white;
+    padding-left: 20px;
+    font-family: "Jost", "Work Sans", sans-serif;
+}
+.bottomlayer {
+    align-items: flex-start;
+    border-top: 1px solid white;
+    display: flex;
+    line-height: 1.8;
+    justify-content: space-between;
+    padding-top: 2.5rem;
+    
+}
+
+.side1 h2{
+    font-size: 16px;
+    font-family: "Jost", "Work Sans", sans-serif;
+}
+
+.side1 button{
+
+     border: 1.5px solid white;
+     color: white;
+     border-radius: 8px;
+     padding: 12px 16px;
+     font-size: 16px;
+     font-weight: 500;
+     background: none;
+    
+}
